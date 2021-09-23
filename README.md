@@ -3,3 +3,4 @@
 Dépôt test pour la collaboration avec Git
 
 - test de rebase
+- test de merge
